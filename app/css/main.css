@@ -1,0 +1,19 @@
+.one {
+	width: 100px;
+	height: 100px;
+	background: url(../images/bg.png);
+}
+.two {
+	width: 100px;
+	height: 100px;
+	background: gray;
+}
+.two img{
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+.three {
+	width: 100px;
+	height: 100px;
+}
